@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/logo.png" alt="novel-timeline" width="160" />
+</p>
+
 # novel-timeline
 
 > 🌐 **Language**: 한국어 (this file) · [English](./README.en.md)

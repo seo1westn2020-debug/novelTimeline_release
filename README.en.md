@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/logo.png" alt="novel-timeline" width="160" />
+</p>
+
 # novel-timeline
 
 A **timeline-based story management tool** for novelists.
