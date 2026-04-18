@@ -1,0 +1,98 @@
+novel-timeline — End User License Agreement (EULA)
+Last updated: 2026-04-19
+
+This End User License Agreement ("EULA") governs the use of the software
+novel-timeline ("Software") provided by the individual developer
+Seo Il-seon ("Developer"). By installing or running the Software, you
+("User") agree to be bound by all terms of this EULA.
+
+NOTICE: This is an English translation provided for informational purposes.
+In case of any inconsistency or conflict between this English translation
+and the Korean original (see the `LICENSE` file), **the Korean version
+shall prevail**.
+
+1. License Grant
+   The Developer grants the User a non-exclusive, non-transferable license
+   to install and run the Software for personal or business use, subject
+   to compliance with this EULA.
+
+2. License Tiers
+   - Free Trial: Free use for three (3) months from the date of initial
+     installation. Use is terminated after the trial period. The following
+     usage limits apply to the Free Trial and Beta tiers:
+       · Up to 100 events
+       · Up to 20 foreshadowings
+       · Up to 20 characters
+       · Up to 5 relationship-graph pages (excluding the default page)
+       · Up to 20 collection items
+   - Beta: Free use during the official open-beta period, subject to the
+     same usage limits as the Free Trial.
+   - Subscription: Monthly or annual billing. Usage limits are lifted for
+     the duration of the valid subscription.
+   - Permanent: One-time payment for perpetual use with usage limits
+     lifted.
+
+3. Payment and License Keys
+   Payment processing and license-key issuance/validation are performed
+   through Lemon Squeezy (https://lemonsqueezy.com). Payment methods,
+   tax handling, and refund procedures are governed by Lemon Squeezy's
+   terms of service.
+
+4. Restrictions
+   The User shall NOT:
+   (a) Reverse engineer, decompile, disassemble, or attempt to extract
+       the source code of the Software;
+   (b) Redistribute, sell, rent, lease, or sublicense the Software in
+       whole or in part;
+   (c) Share, forge, or tamper with license keys in an unauthorized
+       manner;
+   (d) Use circumvention techniques to obtain free access or access to
+       paid features;
+   (e) Use the Software for any purpose that violates applicable laws.
+
+5. Ownership of User Content
+   All content created or entered by the User through the Software —
+   including manuscripts, character information, events, relationships,
+   and collection items — belongs to the User. The Developer claims no
+   rights over such User content.
+
+6. Refunds
+   Refunds may be requested within fourteen (14) days of the date of
+   payment, provided the Software has not been substantively used.
+   Eligibility and procedures for refunds follow Lemon Squeezy's policy.
+
+7. Updates and Support
+   The Developer may provide updates to the Software but is under no
+   obligation to do so. Updates are not forcibly applied; only
+   recommendation notices will be displayed.
+
+8. Warranty Disclaimer
+   THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTIES
+   OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+   IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+   PURPOSE, AND NON-INFRINGEMENT. THE DEVELOPER SHALL NOT BE LIABLE FOR
+   ANY DIRECT, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES ARISING OUT
+   OF OR RELATING TO THE USE OR INABILITY TO USE THE SOFTWARE.
+
+9. Limitation of Liability
+   To the maximum extent permitted by law, the Developer's total
+   liability under or in connection with this EULA shall not exceed the
+   license fees actually paid by the relevant User during the twelve (12)
+   months immediately preceding the event giving rise to the liability.
+
+10. Governing Law and Jurisdiction
+    This EULA shall be governed by and construed in accordance with the
+    laws of the Republic of Korea. Any dispute arising out of or in
+    connection with this EULA shall be submitted to the exclusive
+    jurisdiction of the Seoul Central District Court as the court of
+    first instance.
+
+11. Amendments
+    The Developer may amend this EULA with reasonable prior notice. Any
+    amendment becomes effective when committed to this repository.
+
+12. Contact
+    Inquiries: askNovelTimeline@gmail.com
+    Distribution repository: https://github.com/seo1westn2020-debug/novelTimeline_release
+
+Copyright (c) 2026 Seo Il-seon (novel-timeline). All rights reserved.
