@@ -98,3 +98,18 @@ For the Korean original, see [LICENSE](./LICENSE); in case of any
 inconsistency, the Korean version prevails.
 
 Copyright © 2026 Seo Il-seon (novel-timeline). All rights reserved.
+
+---
+
+## Legal Documents
+
+Terms of Service, Refund Policy, and Privacy Policy that apply when you
+purchase or use novel-timeline. English texts are legally binding;
+Korean versions are reference translations.
+
+| Document | 한국어 | English |
+|---|---|---|
+| Terms of Service | [legal/terms.md](./legal/terms.md) | [legal/terms.en.md](./legal/terms.en.md) |
+| Refund Policy (14-day, all SKUs) | [legal/refund.md](./legal/refund.md) | [legal/refund.en.md](./legal/refund.en.md) |
+| Privacy Policy | [legal/privacy.md](./legal/privacy.md) | [legal/privacy.en.md](./legal/privacy.en.md) |
+| Index | [legal/README.md](./legal/README.md) | — |
