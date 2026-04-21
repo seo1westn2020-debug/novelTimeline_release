@@ -1,5 +1,5 @@
 novel-timeline — End User License Agreement (EULA)
-Last updated: 2026-04-19
+Last updated: 2026-04-21
 
 This End User License Agreement ("EULA") governs the use of the software
 novel-timeline ("Software") provided by the individual developer
@@ -17,28 +17,37 @@ shall prevail**.
    to compliance with this EULA.
 
 2. License Tiers
-   - Free Trial: Free use for three (3) months from the date of initial
-     installation. Use is terminated after the trial period. The following
-     usage limits apply to the Free Trial and Beta tiers:
-       · Up to 100 events
-       · Up to 20 foreshadowings
-       · Up to 20 characters
-       · Up to 5 relationship-graph pages (excluding the default page)
-       · Up to 20 collection items
-   - Beta: Free use during the official open-beta period, subject to the
-     same usage limits as the Free Trial.
-   - Subscription: Monthly or annual billing. Usage limits are lifted for
-     the duration of the valid subscription.
-   - Permanent: One-time payment for perpetual use with usage limits
-     lifted.
+   - Free Trial: Free use of **all features** for ninety (90) days from
+     the date of initial installation. No usage limits are applied during
+     the trial. Trial eligibility is evaluated locally from the User's
+     configuration file (`installDate`); no server registration or account
+     sign-up is required.
+   - Monthly Subscription: Monthly billing via Lemon Squeezy; full
+     functionality during the paid period.
+   - Annual Subscription: Annual billing via Lemon Squeezy; full
+     functionality during the paid period.
+   - (No perpetual license is offered.)
 
-3. Payment and License Keys
+3. Behavior after trial or subscription expiry (Read-only mode)
+   If the 90-day trial expires without an active paid subscription, OR an
+   active subscription expires or is cancelled, the Software enters
+   **Read-only mode**.
+   - Permitted: Viewing existing projects; exporting in JSON/NTZ/TXT and
+     other supported formats; entering a license key; changing theme,
+     language, and other settings.
+   - Blocked: Adding, modifying, or deleting events, characters,
+     foreshadowings, relationships, collections, or factions; importing
+     external files; creating new projects.
+   - User data files are never altered or destroyed, and can always be
+     exported for external backup.
+
+4. Payment and License Keys
    Payment processing and license-key issuance/validation are performed
    through Lemon Squeezy (https://lemonsqueezy.com). Payment methods,
    tax handling, and refund procedures are governed by Lemon Squeezy's
    terms of service.
 
-4. Restrictions
+5. Restrictions
    The User shall NOT:
    (a) Reverse engineer, decompile, disassemble, or attempt to extract
        the source code of the Software;
@@ -46,27 +55,28 @@ shall prevail**.
        whole or in part;
    (c) Share, forge, or tamper with license keys in an unauthorized
        manner;
-   (d) Use circumvention techniques to obtain free access or access to
-       paid features;
+   (d) Use circumvention techniques to renew the trial or obtain access
+       to paid features;
    (e) Use the Software for any purpose that violates applicable laws.
 
-5. Ownership of User Content
+6. Ownership of User Content
    All content created or entered by the User through the Software —
    including manuscripts, character information, events, relationships,
    and collection items — belongs to the User. The Developer claims no
    rights over such User content.
 
-6. Refunds
-   Refunds may be requested within fourteen (14) days of the date of
-   payment, provided the Software has not been substantively used.
-   Eligibility and procedures for refunds follow Lemon Squeezy's policy.
+7. Refunds
+   Refunds for paid subscriptions may be requested within fourteen (14)
+   days of the date of payment, as further described in the Refund Policy
+   at `legal/refund.en.md`. No payment occurs during the trial period,
+   so the trial itself is not subject to refund.
 
-7. Updates and Support
+8. Updates and Support
    The Developer may provide updates to the Software but is under no
    obligation to do so. Updates are not forcibly applied; only
    recommendation notices will be displayed.
 
-8. Warranty Disclaimer
+9. Warranty Disclaimer
    THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTIES
    OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
    IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
@@ -74,24 +84,24 @@ shall prevail**.
    ANY DIRECT, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES ARISING OUT
    OF OR RELATING TO THE USE OR INABILITY TO USE THE SOFTWARE.
 
-9. Limitation of Liability
-   To the maximum extent permitted by law, the Developer's total
-   liability under or in connection with this EULA shall not exceed the
-   license fees actually paid by the relevant User during the twelve (12)
-   months immediately preceding the event giving rise to the liability.
+10. Limitation of Liability
+    To the maximum extent permitted by law, the Developer's total
+    liability under or in connection with this EULA shall not exceed the
+    license fees actually paid by the relevant User during the twelve (12)
+    months immediately preceding the event giving rise to the liability.
 
-10. Governing Law and Jurisdiction
+11. Governing Law and Jurisdiction
     This EULA shall be governed by and construed in accordance with the
     laws of the Republic of Korea. Any dispute arising out of or in
     connection with this EULA shall be submitted to the exclusive
     jurisdiction of the Seoul Central District Court as the court of
     first instance.
 
-11. Amendments
+12. Amendments
     The Developer may amend this EULA with reasonable prior notice. Any
     amendment becomes effective when committed to this repository.
 
-12. Contact
+13. Contact
     Inquiries: askNovelTimeline@gmail.com
     Distribution repository: https://github.com/seo1westn2020-debug/novelTimeline_release
 

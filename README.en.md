@@ -44,24 +44,25 @@ On Windows, if you see a SmartScreen warning, choose
 
 | Tier | Price | Notes |
 |---|---|---|
-| **Free Trial** | Free | **3 months** of use after installation. Usage limits apply |
-| **Open Beta** | Free | Free during the beta period. Usage limits apply |
-| **Monthly** | (TBD) | Limits lifted for the subscription period |
-| **Annual** | (TBD) | Discount over monthly |
-| **Permanent** | (TBD) | One-time payment, perpetual use |
+| **Free Trial** | Free | **90 days (3 months)** of full-feature use after installation. No usage limits |
+| **Monthly** | $10 / month | Full features, auto-renews monthly |
+| **Annual** | $80 / year | Full features, yearly billing (~33% discount vs. monthly) |
 
-### Free / Beta usage limits
+> No perpetual license is offered.
 
-| Item | Limit |
-|---|---|
-| Events | 100 |
-| Foreshadowings | 20 |
-| Characters | 20 |
-| Relationship-graph pages | 5 (excluding default page) |
-| Collection items | 20 |
+### Read-only mode after trial or subscription expiry
 
-Paid plans (monthly / annual subscription or permanent license) **lift all
-of the above limits**.
+If the 3-month trial expires without an active paid subscription, or an active subscription expires or is cancelled, the app enters **Read-only mode**.
+
+| Action | Allowed | Blocked |
+|---|---|---|
+| View existing projects | ✅ | |
+| Export JSON · NTZ · TXT | ✅ | |
+| Enter license key · change settings | ✅ | |
+| Edit events/characters/foreshadowings/relationships, etc. | | ❌ |
+| Import external files · create new projects | | ❌ |
+
+**User data files are never altered or destroyed**, and can always be exported for external backup.
 
 Payment and license-key issuance/validation are handled by [Lemon Squeezy](https://lemonsqueezy.com).
 

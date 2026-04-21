@@ -2,9 +2,9 @@
 
 **Product**: novel-timeline
 **Provider**: Seo Ilseon ("Provider")
-**Effective date**: 2026-04-19
+**Effective date**: 2026-04-21
 
-By purchasing or using novel-timeline, you ("User") agree to be bound by these Terms of Service. If you do not agree, do not purchase, install, or use the product.
+By installing, purchasing, or using novel-timeline, you ("User") agree to be bound by these Terms of Service. If you do not agree, do not install, purchase, or use the product.
 
 > **Controlling version**: In case of any discrepancy between this English text and the Korean translation ([terms.md](./terms.md)), **this English text prevails**.
 
@@ -18,22 +18,39 @@ novel-timeline is a desktop application for novelists that organizes characters,
 - Bundled components such as the built-in MCP server
 - Official documentation and the GitHub Releases page
 
-## 2. License grant
+## 2. License and trial period
 
-### 2.1 License types
-The product is sold under one of the following three license types:
+### 2.1 Free trial (3 months)
+- Every installation includes a **90-day full-feature free trial** starting from the first launch.
+- Trial eligibility is evaluated locally using the app's internal settings file (`installDate`). No server call or account registration is required.
+- The trial may restart on OS reinstallation, a virtual machine, or a new device. The Provider does not actively attempt to prevent these cases.
+
+### 2.2 Paid license types
+To continue full use after the trial ends, the product is sold under one of the following two subscription licenses:
 
 | SKU | Description |
 |---|---|
 | Monthly Subscription | One-month use from the billing date; auto-renews each cycle. |
 | Annual Subscription | One-year use from the billing date; auto-renews each cycle. |
-| Perpetual License | One-time payment; indefinite use of the major version purchased, with free bug-fix updates within that major version. |
 
-### 2.2 Scope of the license
+Prices follow the latest amount displayed on the Lemon Squeezy product page or the in-app settings screen.
+
+### 2.3 Scope of the license
 - The license is **non-exclusive and non-transferable**.
 - One individual User may install and use the product on devices they personally own or control. There is no hard device-count cap, but **sharing a single license key across multiple identifiable persons** (public sharing, resale, rental) is prohibited.
 
-### 2.3 Prohibited uses
+### 2.4 Read-only mode after trial or subscription expiry
+- If the 3-month trial expires without an active paid license, OR an active subscription expires or is cancelled, the app enters **Read-only mode**.
+- In Read-only mode, the following actions are **permitted**:
+  - Viewing existing projects
+  - Exporting in all supported formats (JSON, NTZ, TXT, etc.)
+  - Entering a license key, changing theme/language and other settings
+- The following actions are **blocked**:
+  - Adding, modifying, or deleting events, characters, foreshadowing, relationships, collections, or factions
+  - Importing external files or creating new projects
+- **User data is never altered or destroyed.** JSON and NTZ files can always be exported for external backup.
+
+### 2.5 Prohibited uses
 The User agrees NOT to:
 
 - Reverse-engineer, decompile, or disassemble the product.
@@ -53,17 +70,17 @@ All intellectual property rights in the product — source code, design, brand, 
 ## 4. Updates
 
 - The Provider may issue updates for feature improvements, bug fixes, and security patches.
-- Subscription licenses receive **all major and minor updates free of charge** during the active subscription.
-- Perpetual licenses receive **all updates free of charge within the major version purchased**. A subsequent major version (e.g., v1 → v2) may require a separate purchase.
+- **Subscription licenses** receive all major and minor updates free of charge during the active subscription.
+- Users in the trial period also receive free updates released within the trial.
 - Users are not obligated to install updates, but the Provider makes no warranty regarding compatibility or security of older versions.
 
 ## 5. Termination
 
 ### 5.1 Termination by the User
-- Subscription Users may cancel at any time via the Lemon Squeezy billing page or the link in a receipt email. Access continues until the end of the already-paid period. Refund eligibility is governed by the [Refund Policy](./refund.en.md).
+- Subscription Users may cancel at any time via the Lemon Squeezy billing page or the link in a receipt email. Access continues until the end of the already-paid period, after which the app enters Read-only mode. Refund eligibility is governed by the [Refund Policy](./refund.en.md).
 
 ### 5.2 Termination by the Provider
-The Provider may terminate the license after prior notice if the User materially breaches these Terms (Section 2.3, Section 3, etc.). Upon termination, the license key is deactivated. If termination is due to the User's serious fault, no refund may be issued.
+The Provider may terminate the license after prior notice if the User materially breaches these Terms (Section 2.5, Section 3, etc.). Upon termination, the license key is deactivated. If termination is due to the User's serious fault, no refund may be issued.
 
 ## 6. Disclaimer and limitation of liability
 
@@ -92,4 +109,4 @@ Product inquiries, bug reports, and refund requests should be submitted through 
 
 ---
 
-*Last updated: 2026-04-19*
+*Last updated: 2026-04-21*

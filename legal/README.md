@@ -20,7 +20,7 @@ Legal terms that apply when you use or purchase novel-timeline.
 ## Effective date · 시행일
 
 - Initial publication / 최초 공표: **2026-04-19**
-- Last updated / 최종 갱신: **2026-04-19**
+- Last updated / 최종 갱신: **2026-04-21** (영구 라이선스 조항 제거, 3개월 체험 + 읽기 전용 모드 도입)
 
 ## Contact
 
