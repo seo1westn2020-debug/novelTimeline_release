@@ -16,7 +16,7 @@
 
 ## 다운로드
 
-최신 빌드는 [Releases](https://github.com/seo1westn2020-debug/novelTimeline_release/releases) 페이지에서 받으실 수 있습니다.
+최신 빌드는 [Releases](https://github.com/seo1westn2020/novelTimeline_release/releases) 페이지에서 받으실 수 있습니다.
 
 - **Windows**: `.msi` 인스톨러
 - **macOS**: `.dmg` (추후 제공 예정)

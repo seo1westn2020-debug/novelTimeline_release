@@ -103,7 +103,7 @@ The Provider may terminate the license after prior notice if the User materially
 ## 9. Contact
 
 - Email: `askNovelTimeline@gmail.com`
-- GitHub: https://github.com/seo1westn2020-debug/novelTimeline_release
+- GitHub: https://github.com/seo1westn2020/novelTimeline_release
 
 Product inquiries, bug reports, and refund requests should be submitted through the channels above.
 

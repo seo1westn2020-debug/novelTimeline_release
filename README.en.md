@@ -16,7 +16,7 @@ long-form manuscript work.
 
 ## Download
 
-The latest builds are available on the [Releases](https://github.com/seo1westn2020-debug/novelTimeline_release/releases) page:
+The latest builds are available on the [Releases](https://github.com/seo1westn2020/novelTimeline_release/releases) page:
 
 - **Windows**: `.msi` installer
 - **macOS**: `.dmg` (coming soon)

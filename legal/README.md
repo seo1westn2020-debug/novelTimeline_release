@@ -25,7 +25,7 @@ Legal terms that apply when you use or purchase novel-timeline.
 ## Contact
 
 - Email: `askNovelTimeline@gmail.com`
-- GitHub: https://github.com/seo1westn2020-debug/novelTimeline_release
+- GitHub: https://github.com/seo1westn2020/novelTimeline_release
 
 Changes to these documents are announced through **GitHub Releases** and the application's **Settings → About** section.
 
