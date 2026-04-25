@@ -93,11 +93,11 @@ to function normally during a **30-day offline grace period**.
 
 ## Supporters
 
-novel-timeline is a solo indie project. Heartfelt thanks to everyone supporting its development.
+novel-timeline is a solo indie project. Heartfelt thanks to **everyone helping shape the tool — through monetary support, translation fixes, feature suggestions, bug reports, and ideas**.
 
 > _No supporters yet. Be the first!_
 
-### How to support
+### ☕ Monetary support
 
 | | |
 |---|---|
@@ -105,7 +105,16 @@ novel-timeline is a solo indie project. Heartfelt thanks to everyone supporting 
 | 💳 **PayPal** | [paypal.me/novelTimeline](https://paypal.me/novelTimeline) |
 
 If novel-timeline helps you during the trial, a coffee goes a long way.
-Supporters' names and messages will be listed here (with permission).
+
+### 🌍 Translation, feature ideas, bug reports
+
+Non-monetary contributions are equally welcome. Reach out via email **askNovelTimeline@gmail.com** or GitHub Issues. Accepted contributions are listed below (with consent).
+
+### Format
+
+| Name | Date | Contribution | Message |
+|---|---|---|---|
+| _First slot_ | — | — | — |
 
 ---
 
