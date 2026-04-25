@@ -91,6 +91,24 @@ to function normally during a **30-day offline grace period**.
 
 ---
 
+## Supporters
+
+novel-timeline is a solo indie project. Heartfelt thanks to everyone supporting its development.
+
+> _No supporters yet. Be the first!_
+
+### How to support
+
+| | |
+|---|---|
+| ☕ **Ko-fi** | [ko-fi.com/novelTimeline](https://ko-fi.com/novelTimeline) |
+| 💳 **PayPal** | [paypal.me/novelTimeline](https://paypal.me/novelTimeline) |
+
+If novel-timeline helps you during the trial, a coffee goes a long way.
+Supporters' names and messages will be listed here (with permission).
+
+---
+
 ## License
 
 The Software is distributed under an **End User License Agreement (EULA)**.
