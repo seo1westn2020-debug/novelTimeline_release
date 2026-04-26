@@ -16,13 +16,31 @@
 
 ## 다운로드
 
-최신 빌드는 [Releases](https://github.com/seo1westn2020/novelTimeline_release/releases) 페이지에서 받으실 수 있습니다.
+최신 빌드는 **[Latest Release](https://github.com/seo1westn2020/novelTimeline_release/releases/latest)** 에서 받으실 수 있습니다. 전체 릴리즈 내역은 [Releases](https://github.com/seo1westn2020/novelTimeline_release/releases) 페이지에서 확인하세요.
 
-- **Windows**: `.msi` 인스톨러
-- **macOS**: `.dmg` (추후 제공 예정)
+| OS | 파일 | 비고 |
+|---|---|---|
+| **Windows 10 / 11** | `novel-timeline_<버전>_x64-setup.exe` | NSIS 인스톨러 |
+| **macOS 12+** | `novel-timeline_<버전>_aarch64.dmg` (Apple Silicon) / `..._x64.dmg` (Intel) | 디스크 이미지 |
 
-Windows 실행 시 SmartScreen 경고가 뜨면 "추가 정보 → 실행"을 선택해 주세요
-(코드 서명 인증서 준비 중).
+> 본 빌드는 아직 **코드 서명 인증서가 적용되어 있지 않습니다.** 운영체제가 "출처를 알 수 없는 앱"으로 표시할 수 있으나, 실제 실행에는 문제가 없습니다.
+
+### Windows에서 실행이 막힐 때
+
+`Windows Defender SmartScreen` 경고 화면이 뜨면
+
+1. 작은 글씨의 **"추가 정보"** 를 클릭하면 "실행" 버튼이 나타납니다.
+2. **"실행"** 을 클릭하면 정상 설치가 진행됩니다.
+
+### macOS에서 실행이 막힐 때
+
+처음 실행 시 `"손상되어 열 수 없습니다"` 또는 `"확인되지 않은 개발자"` 경고가 뜨면
+
+1. 응용 프로그램 폴더에서 **novel-timeline 아이콘을 우클릭** 후 **"열기"** 를 선택합니다.
+2. 보안 다이얼로그가 다시 뜨면 한 번 더 **"열기"** 를 클릭합니다.
+3. 한 번 허용한 뒤로는 일반 더블클릭으로 실행됩니다.
+
+> macOS Sequoia(15) 이상에서 위 우클릭 방법으로도 막힐 경우, **시스템 설정 → 개인정보 보호 및 보안** 화면 하단의 **"확인 없이 열기"** 버튼을 클릭해 주세요.
 
 ---
 
